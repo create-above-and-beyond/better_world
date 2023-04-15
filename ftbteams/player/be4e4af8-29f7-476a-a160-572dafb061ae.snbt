@@ -1,0 +1,17 @@
+{
+	id: "be4e4af8-29f7-476a-a160-572dafb061ae"
+	type: "player"
+	player_name: "JToral69"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Vajno"
+		"ftbteams:color": "#FF5982"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": "Важные ребята"
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "ddfccd80-f6c3-4b26-8013-cac22bc0b504"
+	type: "player"
+	player_name: "Doypose"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Doypose"
+		"ftbteams:color": "#FF5982"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

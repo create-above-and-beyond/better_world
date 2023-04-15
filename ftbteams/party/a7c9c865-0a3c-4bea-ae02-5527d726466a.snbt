@@ -1,0 +1,30 @@
+{
+	id: "a7c9c865-0a3c-4bea-ae02-5527d726466a"
+	type: "party"
+	owner: "ddfccd80-f6c3-4b26-8013-cac22bc0b504"
+	ranks: {
+		61c3ff95-ec99-4ab2-92bd-21e219a42730: "member"
+		be4e4af8-29f7-476a-a160-572dafb061ae: "member"
+		ddfccd80-f6c3-4b26-8013-cac22bc0b504: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Vajno"
+		"ftbteams:color": "#FF5982"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": "Важные ребята"
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1643488560932L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"Doypose\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "ddfccd80-f6c3-4b26-8013-cac22bc0b504", date: 1643488560943L, text: "{\"color\":\"green\",\"text\":\"Invited JToral69\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1643488566445L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"JToral69\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "ddfccd80-f6c3-4b26-8013-cac22bc0b504", date: 1643488738384L, text: "{\"color\":\"red\",\"extra\":[{\"color\":\"yellow\",\"text\":\"JToral69\"},{\"text\":\" from \"},{\"color\":\"aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/ftbteams info Vajno#a7c9c865\"},\"text\":\"Vajno\"}],\"text\":\"Kicked \"}" }
+		{ from: "ddfccd80-f6c3-4b26-8013-cac22bc0b504", date: 1643488790182L, text: "{\"color\":\"green\",\"text\":\"Invited JToral69\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1643488792050L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"JToral69\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "ddfccd80-f6c3-4b26-8013-cac22bc0b504", date: 1648060937447L, text: "{\"color\":\"green\",\"text\":\"Invited Zipka251\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1648060940499L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"Zipka251\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+	]
+	extra: { }
+}

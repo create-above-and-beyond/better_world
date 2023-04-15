@@ -1,0 +1,17 @@
+{
+	id: "61c3ff95-ec99-4ab2-92bd-21e219a42730"
+	type: "player"
+	player_name: "Zipka251"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Zipka251"
+		"ftbteams:color": "#59FF9D"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
